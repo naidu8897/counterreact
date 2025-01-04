@@ -7,6 +7,8 @@ function App() {
     <div>
 <UserInput/>
 <Register/>
+
+<div>div </div>
     </div>
   );
 }
