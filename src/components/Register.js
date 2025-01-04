@@ -5,6 +5,7 @@ export default function Register() {
     <div>Register
 
         <h1>Trail and error</h1>
+        <h2>This is para</h2>
     </div>
   )
 }
