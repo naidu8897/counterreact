@@ -5,6 +5,8 @@ export default function Register() {
     <div>Register
 
         <h1>Trail and error</h1>
+
+        <span>This is span Tag</span>
     </div>
   )
 }
