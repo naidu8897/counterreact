@@ -4,8 +4,6 @@ function Counter(props){
     let[count,setCounter]=useState("")
 
 
-    
-
     const incre=()=>{
        setCounter(count+props.uVal)
        console.log("inc..",count)
